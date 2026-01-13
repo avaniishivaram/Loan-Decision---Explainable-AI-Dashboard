@@ -20,7 +20,7 @@ This dashboard makes AI predictions **transparent, interpretable, and actionable
 ---
 
 
-## ⚡ Features
+## Features
 
 - Real-time **loan approval predictions**  
 - **Probability scores** for better understanding of the outcome  
@@ -30,7 +30,7 @@ This dashboard makes AI predictions **transparent, interpretable, and actionable
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Backend:** FastAPI, joblib, scikit-learn, numpy  
 - **Frontend:** Streamlit, Plotly / Matplotlib  
